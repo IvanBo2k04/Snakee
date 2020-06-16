@@ -1,0 +1,9 @@
+C:\Users\Ivan\source\repos\hello world\gameturtle\bin\Debug\gameturtle.exe.config
+C:\Users\Ivan\source\repos\hello world\gameturtle\bin\Debug\gameturtle.exe
+C:\Users\Ivan\source\repos\hello world\gameturtle\bin\Debug\gameturtle.pdb
+C:\Users\Ivan\source\repos\hello world\gameturtle\bin\Debug\SmallBasicLibrary.dll
+C:\Users\Ivan\source\repos\hello world\gameturtle\bin\Debug\SmallBasicLibrary.xml
+C:\Users\Ivan\source\repos\hello world\gameturtle\obj\Debug\gameturtle.csproj.CopyComplete
+C:\Users\Ivan\source\repos\hello world\gameturtle\obj\Debug\gameturtle.exe
+C:\Users\Ivan\source\repos\hello world\gameturtle\obj\Debug\gameturtle.pdb
+C:\Users\Ivan\source\repos\hello world\gameturtle\obj\Debug\gameturtle.csprojAssemblyReference.cache

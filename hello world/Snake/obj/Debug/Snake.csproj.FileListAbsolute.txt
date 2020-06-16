@@ -1,0 +1,6 @@
+C:\Users\Ivan\source\repos\hello world\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\hello world\Snake\bin\Debug\Snake.exe.config
+C:\Users\Ivan\source\repos\hello world\Snake\bin\Debug\Snake.exe
+C:\Users\Ivan\source\repos\hello world\Snake\bin\Debug\Snake.pdb
+C:\Users\Ivan\source\repos\hello world\Snake\obj\Debug\Snake.exe
+C:\Users\Ivan\source\repos\hello world\Snake\obj\Debug\Snake.pdb

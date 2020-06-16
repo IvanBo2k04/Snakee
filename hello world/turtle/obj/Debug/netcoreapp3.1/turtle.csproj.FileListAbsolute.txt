@@ -1,0 +1,14 @@
+C:\Users\Ivan\source\repos\hello world\turtle\bin\Debug\netcoreapp3.1\turtle.exe
+C:\Users\Ivan\source\repos\hello world\turtle\bin\Debug\netcoreapp3.1\turtle.deps.json
+C:\Users\Ivan\source\repos\hello world\turtle\bin\Debug\netcoreapp3.1\turtle.runtimeconfig.json
+C:\Users\Ivan\source\repos\hello world\turtle\bin\Debug\netcoreapp3.1\turtle.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\hello world\turtle\bin\Debug\netcoreapp3.1\turtle.dll
+C:\Users\Ivan\source\repos\hello world\turtle\bin\Debug\netcoreapp3.1\turtle.pdb
+C:\Users\Ivan\source\repos\hello world\turtle\bin\Debug\netcoreapp3.1\SmallBasicLibrary.dll
+C:\Users\Ivan\source\repos\hello world\turtle\bin\Debug\netcoreapp3.1\SmallBasicLibrary.xml
+C:\Users\Ivan\source\repos\hello world\turtle\obj\Debug\netcoreapp3.1\turtle.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\hello world\turtle\obj\Debug\netcoreapp3.1\turtle.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\hello world\turtle\obj\Debug\netcoreapp3.1\turtle.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\hello world\turtle\obj\Debug\netcoreapp3.1\turtle.csproj.CopyComplete
+C:\Users\Ivan\source\repos\hello world\turtle\obj\Debug\netcoreapp3.1\turtle.dll
+C:\Users\Ivan\source\repos\hello world\turtle\obj\Debug\netcoreapp3.1\turtle.pdb

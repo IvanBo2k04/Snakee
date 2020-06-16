@@ -1,0 +1,9 @@
+C:\Users\Ivan\source\repos\hello world\TurtleTraning\bin\Debug\TurtleTraning.exe.config
+C:\Users\Ivan\source\repos\hello world\TurtleTraning\bin\Debug\TurtleTraning.exe
+C:\Users\Ivan\source\repos\hello world\TurtleTraning\bin\Debug\TurtleTraning.pdb
+C:\Users\Ivan\source\repos\hello world\TurtleTraning\bin\Debug\SmallBasicLibrary.dll
+C:\Users\Ivan\source\repos\hello world\TurtleTraning\bin\Debug\SmallBasicLibrary.xml
+C:\Users\Ivan\source\repos\hello world\TurtleTraning\obj\Debug\TurtleTraning.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\hello world\TurtleTraning\obj\Debug\TurtleTraning.csproj.CopyComplete
+C:\Users\Ivan\source\repos\hello world\TurtleTraning\obj\Debug\TurtleTraning.exe
+C:\Users\Ivan\source\repos\hello world\TurtleTraning\obj\Debug\TurtleTraning.pdb
